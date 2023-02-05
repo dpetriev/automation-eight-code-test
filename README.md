@@ -4,7 +4,7 @@
 
 First of all, you need install all required dependencies: 
 
-    pip install -r /path/to/requirements.txt
+    pip install -r requirements.txt
 
 or you can just run virtual environment: 
 
