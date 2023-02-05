@@ -1,0 +1,19 @@
+{
+    "access_points": [
+      {
+        "ssid": "MyAP",
+        "snr": 63,
+        "channel": 11
+      },
+      {
+        "ssid": "HesAP",
+        "snr": 12,
+        "channel": 5
+      },
+      {
+        "ssid": "ShesAP",
+        "snr": 22,
+        "channel": 1
+      }
+    ]  
+}
