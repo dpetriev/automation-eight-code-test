@@ -25,3 +25,5 @@ and run monitor_app.py:
     python monitor_app.py
 
 You are ready. Now you can see output of changed parameters in access_point.json file.
+
+![log output](https://github.com/dpetriev/automation-eight-code-test/blob/main/log.png?raw=true)
