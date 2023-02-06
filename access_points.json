@@ -1,19 +1,29 @@
 {
     "access_points": [
-      {
-        "ssid": "MyAP",
-        "snr": 63,
-        "channel": 11
-      },
-      {
-        "ssid": "HesAP",
-        "snr": 12,
-        "channel": 5
-      },
-      {
-        "ssid": "ShesAP",
-        "snr": 22,
-        "channel": 1
-      }
-    ]  
+        {
+            "ssid": "HisAP10",
+            "snr": 17,
+            "channel": 8
+        },
+        {
+            "ssid": "HisAP63",
+            "snr": 13,
+            "channel": 7
+        },
+        {
+            "ssid": "MyAP52",
+            "snr": 10,
+            "channel": 10
+        },
+        {
+            "ssid": "MyAP93",
+            "snr": 96,
+            "channel": 4
+        },
+        {
+            "ssid": "HerAP47",
+            "snr": 40,
+            "channel": 11
+        }
+    ]
 }
